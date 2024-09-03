@@ -6,5 +6,19 @@ import { Component } from '@angular/core';
   styleUrl: './track-page.component.css'
 })
 export class TrackPageComponent {
+  mockTrakcList = [
+  {
+    name: 'BEBE (oficial)'
+  },
+  {
+    name: 'BEBE (oficial)'
+  },
+  {
+    name: 'BEBE (oficial)'
+  }
+
+
+
+  ]
 
 }
